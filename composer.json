@@ -22,7 +22,7 @@
         "class": "Lw\\TYPO3CMSInstallers\\TYPO3CMSInstallerPlugin"
     },
     "replace": {
-        "lw/typo3cms-installers": "self.version"
+        "lw/typo3cms-installers": "*"
     },
     "require": {
         "composer-plugin-api": "1.0.0",
