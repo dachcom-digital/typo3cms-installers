@@ -21,6 +21,9 @@
     "extra": {
         "class": "Lw\\TYPO3CMSInstallers\\TYPO3CMSInstallerPlugin"
     },
+    "replace": {
+        "lw/typo3cms-installers": "self.version"
+    },
     "require": {
         "composer-plugin-api": "1.0.0",
         "composer/installers": "*"
