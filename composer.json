@@ -1,5 +1,5 @@
 {
-    "name": "lw/typo3cms-installers",
+    "name": "dachcom/typo3cms-installers",
     "type": "composer-plugin",
     "license": "MIT",
     "description": "A TYPO3 CMS Composer installer",
@@ -22,7 +22,7 @@
         "class": "Lw\\TYPO3CMSInstallers\\TYPO3CMSInstallerPlugin"
     },
     "replace": {
-        "lw/typo3cms-installers": "dev-master"
+        "lw/typo3cms-installers": "*"
     },
     "require": {
         "composer-plugin-api": "1.0.0",
